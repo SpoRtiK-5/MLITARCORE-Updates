@@ -1,24 +1,24 @@
 {
     "schema":  1,
-    "version":  "1.2.3",
-    "tag":  "pack-v1.2.3",
+    "version":  "1.2.4",
+    "tag":  "pack-v1.2.4",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.231",
-    "generatedAtUtc":  "2026-09-13T22:32:46.5642192Z",
+    "generatedAtUtc":  "2026-09-13T22:57:54.3394181Z",
     "files":  [
                   {
                       "path":  "mods/militarycore-1.11.0.jar",
                       "sha256":  "21f34e4ad36cc3084ca404c6469afbe0bb1d6b9bf4b58e2c42e4cd4f6a1c6a88",
                       "size":  278664,
-                      "url":  "https://github.com/SpoRtiK-5/MLITARCORE-Updates/releases/download/pack-v1.2.3/mcr_6e39aed3eea9_militarycore-1.11.0.jar",
+                      "url":  "https://github.com/SpoRtiK-5/MLITARCORE-Updates/releases/download/pack-v1.2.4/mcr_6e39aed3eea9_militarycore-1.11.0.jar",
                       "asset":  "mcr_6e39aed3eea9_militarycore-1.11.0.jar"
                   },
                   {
-                      "path":  "mods/MLITARCORE-Menu-2.3.0.jar",
-                      "sha256":  "7a3995ccb69b772c7d29cf698aa804a259d975d46a65e478f2ae3f1fcceb5f64",
-                      "size":  56880404,
-                      "url":  "https://github.com/SpoRtiK-5/MLITARCORE-Updates/releases/download/pack-v1.2.3/mcr_70140d2d956c_MLITARCORE-Menu-2.3.0.jar",
-                      "asset":  "mcr_70140d2d956c_MLITARCORE-Menu-2.3.0.jar"
+                      "path":  "mods/MLITARCORE-Menu-2.3.1.jar",
+                      "sha256":  "415feb8dd21e3b93c3372a12e5204c818afee4cb74842e435dfc5093625ea30a",
+                      "size":  56880329,
+                      "url":  "https://github.com/SpoRtiK-5/MLITARCORE-Updates/releases/download/pack-v1.2.4/mcr_c0e17620ede8_MLITARCORE-Menu-2.3.1.jar",
+                      "asset":  "mcr_c0e17620ede8_MLITARCORE-Menu-2.3.1.jar"
                   }
               ]
 }
